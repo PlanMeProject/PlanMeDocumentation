@@ -1,2 +1,4 @@
 # PlanMeDocumentation
-The archive of documentation related to PlanMe application
+The archive repository of documentation related to PlanMe application.
+* [PlanMeDocumentation Wiki](https://github.com/PlanMeProject/PlanMeDocumentation/wiki)
+
